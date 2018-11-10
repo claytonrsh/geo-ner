@@ -21,3 +21,11 @@ Possible approach: using "neuralcoref" which finds mentions of named entities th
 Next step: run this on corpus. Use existing corpus or create one using Google News API.
 
 NLTK Gazeetteer - cities and countries
+
+## sources
+Should all be cited in various notebooks/etc in this repo, but here are some articles/sources helpful in exploring this idea
+1. Susan Li's Named Entity Recognition series: 
+  - https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+  - https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2
+2. Stackoverflow is always useful.
+  - https://stackoverflow.com/questions/30150047/find-all-locations-cities-places-in-a-text
